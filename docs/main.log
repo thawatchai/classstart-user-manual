@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  4 AUG 2012 12:20
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  7 AUG 2012 13:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
+**main
 (./main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
@@ -546,212 +546,1108 @@ LaTeX Info: Redefining \LaTeXe on input line 219.
 LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/m/n' will be
 (Font)              scaled to size 13.99994pt on input line 24.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is not detected.
-)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-\Gm@cnth=\count169
-\Gm@cntv=\count170
-\c@Gm@tempcnt=\count171
-\Gm@bindingoffset=\dimen144
-\Gm@wd@mp=\dimen145
-\Gm@odd@mp=\dimen146
-\Gm@even@mp=\dimen147
-\Gm@layoutwidth=\dimen148
-\Gm@layoutheight=\dimen149
-\Gm@layouthoffset=\dimen150
-\Gm@layoutvoffset=\dimen151
-\Gm@dimlist=\toks20
-)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
-(./main.aux)
-\openout1 = `main.aux'.
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 63.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 63.
- (/usr/local/texlive/2012/texmf-dist/tex/latex/tipa/t3cmr.fd
-File: t3cmr.fd 2001/12/31 TIPA font definitions
-)
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 16.79993pt on input line 63.
-.................................................
-. fontspec info: "setup-math"
-. 
-. Adjusting the maths setup (use [no-math] to avoid this).
-.................................................
-\symlegacymaths=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 63.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 63.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 63.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 63.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 63.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 63.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 63.
-LaTeX Font Info:    Redeclaring math accent \check on input line 63.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 63.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 63.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 63.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 63.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 63.
-LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 63.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/THSarabunNew(0)/m/n on input line 6
-3.
-LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 63.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/THSarabunNew(0)/m/n on input line 
-63.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/THSarabunNew(0)/m/n --> EU1/THSarabunNew(0)/m/n on 
-input line 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/THSarabunNew(0)/m/n --> EU1/THSarabunNew(0)/m/n on 
-input line 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/THSarabunNew(0)/m/it on input line
- 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/THSarabunNew(0)/bx/n on input line
- 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 63.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/THSarabunNew(0)/m/n --> EU1/THSarabunNew(0)/bx/n on
- input line 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/THSarabunNew(0)/m/n --> EU1/THSarabunNew(0)/bx/n on
- input line 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/THSarabunNew(0)/bx/it on input li
-ne 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 63.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 63.
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-*geometry* driver: auto-detecting
-*geometry* detected driver: xetex
-*geometry* verbose mode - [ preamble ] result:
-* driver: xetex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(90.3375pt, 452.96788pt, 54.2025pt)
-* v-part:(T,H,B)=(90.3375pt, 682.43936pt, 72.26999pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=452.96788pt
-* \textheight=682.43936pt
-* \oddsidemargin=18.0675pt
-* \evensidemargin=18.0675pt
-* \topmargin=-13.80629pt
-* \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=47.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 34.83185pt on input line 65.
-LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/bx/n' will be
-(Font)              scaled to size 34.83185pt on input line 65.
-(./main.toc
-LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/bx/n' will be
-(Font)              scaled to size 16.79993pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 11.19995pt on input line 3.
-LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 8.39996pt on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
-)
-\tf@toc=\write3
-\openout3 = `main.toc'.
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
- [1
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-]
-บทที่ 1.
-[2
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-]
-บทที่ 2.
-LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/m/n' will be
-(Font)              scaled to size 24.19188pt on input line 71.
-LaTeX Font Info:    Font shape `EU1/THSarabunNew(0)/bx/n' will be
-(Font)              scaled to size 24.19188pt on input line 71.
-[3
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-]
-บทที่ 3.
-[4
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-] (./main.aux) ) 
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                    #4  errhelp @err@       ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  let @err@                 ...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                  @empty def MessageBreak  ^...
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./main.tex:42: Undefined control sequence.
+GenericError  ...                                 
+                                                     endgroup 
+l.42 ...       {\normalfont\normalsize\bfseries}}}
+                                                  
+(That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 14075 strings out of 494004
- 305831 string characters out of 3150890
- 303554 words of memory out of 3000000
- 17205 multiletter control sequences out of 15000+200000
- 6528 words of font info for 42 fonts, out of 3000000 for 9000
+ 13496 strings out of 494004
+ 296421 string characters out of 3150890
+ 291457 words of memory out of 3000000
+ 16664 multiletter control sequences out of 15000+200000
+ 4026 words of font info for 26 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 36i,5n,36p,585b,138s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,0n,81p,582b,138s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (4 pages).
+No pages of output.
